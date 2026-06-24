@@ -1,0 +1,392 @@
+[+] Containers:
+ |- [+] Container: /Game/Levels/MenuLevel
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:03920DF94EEFC9F86CC66185D32A3DA1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-25174.253 Y=-19724.627 Z=-17175.000), Max=(X=14774.253 Y=20224.627 Z=22775.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:0770D72D45611DA09D6719935240EA73 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2118259082 Label:TargetPoint10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3500.000 Y=500.000 Z=450.000), Max=(X=-3500.000 Y=500.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- Guid:08AD43214A27E9658AEDA6AA6E830E70 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2138038102 Label:TargetPoint30 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3500.000 Y=-1500.000 Z=450.000), Max=(X=-3500.000 Y=-1500.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- Guid:0CA6526A4AF5461F679AA7AA1418A2B7 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:NewMap_HLOD0_Instancing_0000000047f41330 Label:NewMap_HLOD0_Instancing/MenuLevel_MainGrid_-1_-1_0_0 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-10887.198 Y=-8487.349 Z=-8087.500), Max=(X=5287.198 Y=7687.349 Z=8087.500) RuntimeGrid:MainGrid:NewMap_HLOD0_Instancing EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/NewMap_HLOD0_Instancing FolderGuid:BB60DA8D4F08C8440D82A3A9531DFDFD
+ |   |   |- Guid:0FCAA7C945F35855EF6A14BA5628157A BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2132941093 Label:TargetPoint21 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1500.000 Y=-1000.000 Z=450.000), Max=(X=-1500.000 Y=-1000.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- Guid:0FDBF9424D03EF27AFA71AA99AADA6DE BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2128359091 Label:TargetPoint19 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3000.000 Y=-250.000 Z=450.000), Max=(X=-3000.000 Y=-250.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- Guid:14CE88984C730F4193BBF18718D6C74F BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2132946097 Label:TargetPoint25 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3500.000 Y=-1000.000 Z=450.000), Max=(X=-3500.000 Y=-1000.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- Guid:1D3D26F04B6DC10BEFB5B69E5CF914C8 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_A85E45CFE40401D200_1470381760 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:1DE8D7AC4103A2EABA11649C7FCF8ACA BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:200AEEAD4D90B837527137BE6D3D6ECF BaseClass:/Game/Core/Blueprints/BP_Playfeild.BP_Playfeild_C NativeClass:/Script/Engine.Actor Name:BP_Playfeild_C_UAID_9C6B0058C1E3BAE502_1419007059 Label:BP_Playfeild SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3687.500 Y=-1587.500 Z=-937.500), Max=(X=-912.500 Y=1587.500 Z=-362.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:219DF6544AB35F4CCBE5569A200C540F BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2128355088 Label:TargetPoint16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1500.000 Y=-500.000 Z=450.000), Max=(X=-1500.000 Y=-500.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- Guid:2A6CA67E413BE62B06D1438FC025FB7E BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2128357089 Label:TargetPoint17 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2000.000 Y=-800.000 Z=450.000), Max=(X=-2000.000 Y=-800.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- Guid:2BFDA359418DDAC0F46ABBADA75F128F BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2118258081 Label:TargetPoint9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3000.000 Y=750.000 Z=450.000), Max=(X=-3000.000 Y=750.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- Guid:2CE12F874AA39D020A0F4BA5739BD305 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:3018B72C4CCCF30BC25E4EB87BD7C7B8 BaseClass:/Game/Core/Blueprints/UserInterface/BP_MainMenuPawn.BP_MainMenuPawn_C NativeClass:/Script/Engine.Pawn Name:BP_MainMenuPawn_C_UAID_9C6B0058C1E318E502_1487141544 Label:BP_MainMenuPawn SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-50.000 Y=0.000 Z=0.000), Max=(X=-50.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3BB58B7D4DAC1D24B2E433A5D5EA5C07 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2123812087 Label:TargetPoint15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3500.000 Y=0.000 Z=450.000), Max=(X=-3500.000 Y=0.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- Guid:43D85D204B6E7A3FAE8E0B87F50CFE52 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_1330252055 Label:TargetPoint SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1500.000 Y=1000.000 Z=450.000), Max=(X=-1500.000 Y=1000.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:5425E9A94D698034EBD224A9F77CED2E BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2123811086 Label:TargetPoint14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3000.000 Y=250.000 Z=450.000), Max=(X=-3000.000 Y=250.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- Guid:6B9FD0C24D8E0403F93F178661B66304 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2118254078 Label:TargetPoint6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1500.000 Y=500.000 Z=450.000), Max=(X=-1500.000 Y=500.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- Guid:7B1E9E514A2A376E67550198D1655EA3 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2087704076 Label:TargetPoint4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3000.000 Y=1250.000 Z=450.000), Max=(X=-3000.000 Y=1250.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- Guid:7CE179954734B7EF5E303CB486BACEBD BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2128358090 Label:TargetPoint18 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2500.000 Y=-500.000 Z=450.000), Max=(X=-2500.000 Y=-500.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- Guid:7FF8BBCA4A02A536C16712A0686D0169 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2138036099 Label:TargetPoint27 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2000.000 Y=-1800.000 Z=450.000), Max=(X=-2000.000 Y=-1800.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- Guid:84B2A3634B58A48291C824AF04E0C0E3 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2138034098 Label:TargetPoint26 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1500.000 Y=-1500.000 Z=450.000), Max=(X=-1500.000 Y=-1500.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- Guid:87F50B5644EC0ABDD3AF54B7DBE630D1 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2132945096 Label:TargetPoint24 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3000.000 Y=-750.000 Z=450.000), Max=(X=-3000.000 Y=-750.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- Guid:962D6BE34E7839A2A94E65B8F6CE5D43 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_F02F74551BF5599B01_1153002503 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-40.000 Y=-40.000 Z=-92.000), Max=(X=40.000 Y=40.000 Z=92.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9921FDEA42908382F640F78E86B9FA66 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2118256079 Label:TargetPoint7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2000.000 Y=200.000 Z=450.000), Max=(X=-2000.000 Y=200.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- Guid:A696E13545FADBEFD1F31489DB7328C5 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2123809085 Label:TargetPoint13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2500.000 Y=0.000 Z=450.000), Max=(X=-2500.000 Y=0.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- Guid:AA2B3ECA4F45D1C3243F69999DE62848 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2132943094 Label:TargetPoint22 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2000.000 Y=-1300.000 Z=450.000), Max=(X=-2000.000 Y=-1300.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- Guid:AAAC6B5742760A58C2206DB37E44683C BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:B91422BD4FD00A4074D0ACBB8598FF1F BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2132944095 Label:TargetPoint23 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2500.000 Y=-1000.000 Z=450.000), Max=(X=-2500.000 Y=-1000.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- Guid:BCF7F0E6430F6929AEE32BBABC9D224D BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2111214077 Label:TargetPoint5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3500.000 Y=1000.000 Z=450.000), Max=(X=-3500.000 Y=1000.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- Guid:C79A17F646004C9B9C9483BDABB63391 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2123806083 Label:TargetPoint11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1500.000 Y=0.000 Z=450.000), Max=(X=-1500.000 Y=0.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- Guid:CDCE837C446CE682C37C3F81DD26F970 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2085604075 Label:TargetPoint3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2500.000 Y=1000.000 Z=450.000), Max=(X=-2500.000 Y=1000.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- Guid:D3FB7383421AAEFD3DB6F8B1E415A9FE BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:D7B36597423E8056BE224FAF1EF328DC BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2138037100 Label:TargetPoint28 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2500.000 Y=-1500.000 Z=450.000), Max=(X=-2500.000 Y=-1500.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- Guid:DCF6DBE04AAC9033A232F198147B4178 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2128360092 Label:TargetPoint20 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3500.000 Y=-500.000 Z=450.000), Max=(X=-3500.000 Y=-500.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- Guid:DF03F8234D2F950108D746886E7E7540 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2123808084 Label:TargetPoint12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2000.000 Y=-300.000 Z=450.000), Max=(X=-2000.000 Y=-300.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- Guid:EA51F0704B860526C14CA5A99FD568BD BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2081098074 Label:TargetPoint2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2000.000 Y=700.000 Z=450.000), Max=(X=-2000.000 Y=700.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- Guid:EE10F8254C582667D8523D8E516D4F52 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2138037101 Label:TargetPoint29 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3000.000 Y=-1250.000 Z=450.000), Max=(X=-3000.000 Y=-1250.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- Guid:FEB91E084274EDD998CBAFB05C8B3517 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2118257080 Label:TargetPoint8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2500.000 Y=500.000 Z=450.000), Max=(X=-2500.000 Y=500.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:03920DF94EEFC9F86CC66185D32A3DA1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-25174.253 Y=-19724.627 Z=-17175.000), Max=(X=14774.253 Y=20224.627 Z=22775.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:0770D72D45611DA09D6719935240EA73 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2118259082 Label:TargetPoint10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3500.000 Y=500.000 Z=450.000), Max=(X=-3500.000 Y=500.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:08AD43214A27E9658AEDA6AA6E830E70 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2138038102 Label:TargetPoint30 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3500.000 Y=-1500.000 Z=450.000), Max=(X=-3500.000 Y=-1500.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:0CA6526A4AF5461F679AA7AA1418A2B7 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:NewMap_HLOD0_Instancing_0000000047f41330 Label:NewMap_HLOD0_Instancing/MenuLevel_MainGrid_-1_-1_0_0 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-10887.198 Y=-8487.349 Z=-8087.500), Max=(X=5287.198 Y=7687.349 Z=8087.500) RuntimeGrid:MainGrid:NewMap_HLOD0_Instancing EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/NewMap_HLOD0_Instancing FolderGuid:BB60DA8D4F08C8440D82A3A9531DFDFD
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:0FCAA7C945F35855EF6A14BA5628157A BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2132941093 Label:TargetPoint21 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1500.000 Y=-1000.000 Z=450.000), Max=(X=-1500.000 Y=-1000.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:0FDBF9424D03EF27AFA71AA99AADA6DE BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2128359091 Label:TargetPoint19 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3000.000 Y=-250.000 Z=450.000), Max=(X=-3000.000 Y=-250.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:14CE88984C730F4193BBF18718D6C74F BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2132946097 Label:TargetPoint25 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3500.000 Y=-1000.000 Z=450.000), Max=(X=-3500.000 Y=-1000.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:1D3D26F04B6DC10BEFB5B69E5CF914C8 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_A85E45CFE40401D200_1470381760 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:1DE8D7AC4103A2EABA11649C7FCF8ACA BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:200AEEAD4D90B837527137BE6D3D6ECF BaseClass:/Game/Core/Blueprints/BP_Playfeild.BP_Playfeild_C NativeClass:/Script/Engine.Actor Name:BP_Playfeild_C_UAID_9C6B0058C1E3BAE502_1419007059 Label:BP_Playfeild SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3687.500 Y=-1587.500 Z=-937.500), Max=(X=-912.500 Y=1587.500 Z=-362.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:219DF6544AB35F4CCBE5569A200C540F BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2128355088 Label:TargetPoint16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1500.000 Y=-500.000 Z=450.000), Max=(X=-1500.000 Y=-500.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:2A6CA67E413BE62B06D1438FC025FB7E BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2128357089 Label:TargetPoint17 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2000.000 Y=-800.000 Z=450.000), Max=(X=-2000.000 Y=-800.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:2BFDA359418DDAC0F46ABBADA75F128F BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2118258081 Label:TargetPoint9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3000.000 Y=750.000 Z=450.000), Max=(X=-3000.000 Y=750.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:2CE12F874AA39D020A0F4BA5739BD305 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:3018B72C4CCCF30BC25E4EB87BD7C7B8 BaseClass:/Game/Core/Blueprints/UserInterface/BP_MainMenuPawn.BP_MainMenuPawn_C NativeClass:/Script/Engine.Pawn Name:BP_MainMenuPawn_C_UAID_9C6B0058C1E318E502_1487141544 Label:BP_MainMenuPawn SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-50.000 Y=0.000 Z=0.000), Max=(X=-50.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:3BB58B7D4DAC1D24B2E433A5D5EA5C07 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2123812087 Label:TargetPoint15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3500.000 Y=0.000 Z=450.000), Max=(X=-3500.000 Y=0.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:43D85D204B6E7A3FAE8E0B87F50CFE52 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_1330252055 Label:TargetPoint SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1500.000 Y=1000.000 Z=450.000), Max=(X=-1500.000 Y=1000.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:5425E9A94D698034EBD224A9F77CED2E BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2123811086 Label:TargetPoint14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3000.000 Y=250.000 Z=450.000), Max=(X=-3000.000 Y=250.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:6B9FD0C24D8E0403F93F178661B66304 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2118254078 Label:TargetPoint6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1500.000 Y=500.000 Z=450.000), Max=(X=-1500.000 Y=500.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:7B1E9E514A2A376E67550198D1655EA3 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2087704076 Label:TargetPoint4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3000.000 Y=1250.000 Z=450.000), Max=(X=-3000.000 Y=1250.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:7CE179954734B7EF5E303CB486BACEBD BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2128358090 Label:TargetPoint18 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2500.000 Y=-500.000 Z=450.000), Max=(X=-2500.000 Y=-500.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:7FF8BBCA4A02A536C16712A0686D0169 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2138036099 Label:TargetPoint27 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2000.000 Y=-1800.000 Z=450.000), Max=(X=-2000.000 Y=-1800.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:84B2A3634B58A48291C824AF04E0C0E3 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2138034098 Label:TargetPoint26 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1500.000 Y=-1500.000 Z=450.000), Max=(X=-1500.000 Y=-1500.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:87F50B5644EC0ABDD3AF54B7DBE630D1 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2132945096 Label:TargetPoint24 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3000.000 Y=-750.000 Z=450.000), Max=(X=-3000.000 Y=-750.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:962D6BE34E7839A2A94E65B8F6CE5D43 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_F02F74551BF5599B01_1153002503 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-40.000 Y=-40.000 Z=-92.000), Max=(X=40.000 Y=40.000 Z=92.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:9921FDEA42908382F640F78E86B9FA66 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2118256079 Label:TargetPoint7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2000.000 Y=200.000 Z=450.000), Max=(X=-2000.000 Y=200.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:A696E13545FADBEFD1F31489DB7328C5 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2123809085 Label:TargetPoint13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2500.000 Y=0.000 Z=450.000), Max=(X=-2500.000 Y=0.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:AA2B3ECA4F45D1C3243F69999DE62848 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2132943094 Label:TargetPoint22 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2000.000 Y=-1300.000 Z=450.000), Max=(X=-2000.000 Y=-1300.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:AAAC6B5742760A58C2206DB37E44683C BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:B91422BD4FD00A4074D0ACBB8598FF1F BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2132944095 Label:TargetPoint23 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2500.000 Y=-1000.000 Z=450.000), Max=(X=-2500.000 Y=-1000.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- [+] [ 31]
+ |   |   |   |- Guid:BCF7F0E6430F6929AEE32BBABC9D224D BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2111214077 Label:TargetPoint5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3500.000 Y=1000.000 Z=450.000), Max=(X=-3500.000 Y=1000.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- [+] [ 32]
+ |   |   |   |- Guid:C79A17F646004C9B9C9483BDABB63391 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2123806083 Label:TargetPoint11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1500.000 Y=0.000 Z=450.000), Max=(X=-1500.000 Y=0.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- [+] [ 33]
+ |   |   |   |- Guid:CDCE837C446CE682C37C3F81DD26F970 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2085604075 Label:TargetPoint3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2500.000 Y=1000.000 Z=450.000), Max=(X=-2500.000 Y=1000.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- [+] [ 34]
+ |   |   |   |- Guid:D3FB7383421AAEFD3DB6F8B1E415A9FE BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 35]
+ |   |   |   |- Guid:D7B36597423E8056BE224FAF1EF328DC BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2138037100 Label:TargetPoint28 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2500.000 Y=-1500.000 Z=450.000), Max=(X=-2500.000 Y=-1500.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- [+] [ 36]
+ |   |   |   |- Guid:DCF6DBE04AAC9033A232F198147B4178 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2128360092 Label:TargetPoint20 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3500.000 Y=-500.000 Z=450.000), Max=(X=-3500.000 Y=-500.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- [+] [ 37]
+ |   |   |   |- Guid:DF03F8234D2F950108D746886E7E7540 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2123808084 Label:TargetPoint12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2000.000 Y=-300.000 Z=450.000), Max=(X=-2000.000 Y=-300.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- [+] [ 38]
+ |   |   |   |- Guid:EA51F0704B860526C14CA5A99FD568BD BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2081098074 Label:TargetPoint2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2000.000 Y=700.000 Z=450.000), Max=(X=-2000.000 Y=700.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- [+] [ 39]
+ |   |   |   |- Guid:EE10F8254C582667D8523D8E516D4F52 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2138037101 Label:TargetPoint29 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3000.000 Y=-1250.000 Z=450.000), Max=(X=-3000.000 Y=-1250.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |   |   |- [+] [ 40]
+ |   |   |   |- Guid:FEB91E084274EDD998CBAFB05C8B3517 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_9C6B0058C1E3BAE502_2118257080 Label:TargetPoint8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2500.000 Y=500.000 Z=450.000), Max=(X=-2500.000 Y=500.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TargetPointList FolderGuid:A0DE11514DB2223E2F6180AEDC242D70
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-3687.500 Y=-1800.000 Z=-937.500), Max=(X=-50.000 Y=1587.500 Z=450.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Levels/MenuLevel
+----------------------------------------------------------------------------------------------------------------
+MenuLevel - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of MenuLevel Persistent Level
+ |- Always loaded Actor Count: 9 
+ |- Actor Path: /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.DirectionalLight_UAID_A85E45CFE40401D200_1470382761
+ |- Actor Package: /Game/__ExternalActors__/Levels/MenuLevel/6/GB/YPKMA9H5IB16MTZDS5PVBX
+ |- Actor Path: /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763
+ |- Actor Package: /Game/__ExternalActors__/Levels/MenuLevel/4/T5/UARKVJAS73XCE5QB5FMNF6
+ |- Actor Path: /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.NewMap_HLOD0_Instancing_0000000047f41330
+ |- Actor Package: /Game/__ExternalActors__/Levels/MenuLevel/1/LH/AXNYAPC3AQMPOQ4XXPJFDH
+ |- Actor Path: /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.PlayerStart_UAID_F02F74551BF5599B01_1153002503
+ |- Actor Package: /Game/__ExternalActors__/Levels/MenuLevel/1/4U/K5RE3QU95XN71G0Y10O8H5
+ |- Actor Path: /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762
+ |- Actor Package: /Game/__ExternalActors__/Levels/MenuLevel/7/C0/0JC8DRBAWWK2BI6GZYAFOU
+ |- Actor Path: /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.SkyLight_UAID_A85E45CFE40401D200_1470380759
+ |- Actor Package: /Game/__ExternalActors__/Levels/MenuLevel/1/SF/6YC1N1FCSFFTYIZR8Q5KPQ
+ |- Actor Path: /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663
+ |- Actor Package: /Game/__ExternalActors__/Levels/MenuLevel/C/OI/SBY5KZW9PPHNUJAYLUV5H0
+ |- Actor Path: /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.VolumetricCloud_UAID_A85E45CFE40401D200_1470381760
+ |- Actor Package: /Game/__ExternalActors__/Levels/MenuLevel/C/IO/ZH6JWS09EEHJYHBJI5117F
+ |- Actor Path: /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Levels/MenuLevel/9/NG/X6E7N0RW9IMJWNOLTEYFS8
+
+----------------------------------------------------------------------------------------------------------------
+MenuLevel - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Cell MenuLevel_MainGrid_-1_-1_0_0 (96ZDUX50N3MJ0492OY8HZDMIF)
+ |- Actor Count: 16
+ |- [+] /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.TargetPoint_UAID_9C6B0058C1E3BAE502_2138038102
+ |   |-         Package: /Game/__ExternalActors__/Levels/MenuLevel/E/Q7/J0PNOPL3W66BRXOIEWHNX9
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 08AD43214A27E9658AEDA6AA6E830E70
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.TargetPoint_UAID_9C6B0058C1E3BAE502_2132941093
+ |   |-         Package: /Game/__ExternalActors__/Levels/MenuLevel/4/OK/MYPM0A4B7PLDW25RNRG7F8
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 0FCAA7C945F35855EF6A14BA5628157A
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.TargetPoint_UAID_9C6B0058C1E3BAE502_2128359091
+ |   |-         Package: /Game/__ExternalActors__/Levels/MenuLevel/8/7S/9WI7PJ4LFCJEWLRLK05IX6
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 0FDBF9424D03EF27AFA71AA99AADA6DE
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.TargetPoint_UAID_9C6B0058C1E3BAE502_2132946097
+ |   |-         Package: /Game/__ExternalActors__/Levels/MenuLevel/7/RR/2UPUK31R6C562HHP87Z2K0
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 14CE88984C730F4193BBF18718D6C74F
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.TargetPoint_UAID_9C6B0058C1E3BAE502_2128355088
+ |   |-         Package: /Game/__ExternalActors__/Levels/MenuLevel/1/37/NBL6TNU2830TSGCEXDBTZI
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 219DF6544AB35F4CCBE5569A200C540F
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.TargetPoint_UAID_9C6B0058C1E3BAE502_2128357089
+ |   |-         Package: /Game/__ExternalActors__/Levels/MenuLevel/D/LG/JWO1ZJPCJRZTHC11XDO8LY
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 2A6CA67E413BE62B06D1438FC025FB7E
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.TargetPoint_UAID_9C6B0058C1E3BAE502_2128358090
+ |   |-         Package: /Game/__ExternalActors__/Levels/MenuLevel/E/GV/PKYCD6Y5G1NGTF495EYNOV
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 7CE179954734B7EF5E303CB486BACEBD
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.TargetPoint_UAID_9C6B0058C1E3BAE502_2138036099
+ |   |-         Package: /Game/__ExternalActors__/Levels/MenuLevel/6/HD/V99ZULXKYQUHOARSDS8R83
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 7FF8BBCA4A02A536C16712A0686D0169
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.TargetPoint_UAID_9C6B0058C1E3BAE502_2138034098
+ |   |-         Package: /Game/__ExternalActors__/Levels/MenuLevel/C/UW/DESNERD1696QU0NMIHN1Y5
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 84B2A3634B58A48291C824AF04E0C0E3
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.TargetPoint_UAID_9C6B0058C1E3BAE502_2132945096
+ |   |-         Package: /Game/__ExternalActors__/Levels/MenuLevel/7/H1/HK7WM8OX3CNXN236A0P9YY
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 87F50B5644EC0ABDD3AF54B7DBE630D1
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.TargetPoint_UAID_9C6B0058C1E3BAE502_2132943094
+ |   |-         Package: /Game/__ExternalActors__/Levels/MenuLevel/A/BQ/E2UGDU5WU7RDBBNL4R4WLG
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: AA2B3ECA4F45D1C3243F69999DE62848
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.TargetPoint_UAID_9C6B0058C1E3BAE502_2132944095
+ |   |-         Package: /Game/__ExternalActors__/Levels/MenuLevel/C/YB/GI29U976412RUHES1XY577
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: B91422BD4FD00A4074D0ACBB8598FF1F
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.TargetPoint_UAID_9C6B0058C1E3BAE502_2138037100
+ |   |-         Package: /Game/__ExternalActors__/Levels/MenuLevel/0/2G/P106P696R81FWD1AVZNF82
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: D7B36597423E8056BE224FAF1EF328DC
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.TargetPoint_UAID_9C6B0058C1E3BAE502_2128360092
+ |   |-         Package: /Game/__ExternalActors__/Levels/MenuLevel/5/NX/AZNMON6UJKOXP535YD3NL5
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: DCF6DBE04AAC9033A232F198147B4178
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.TargetPoint_UAID_9C6B0058C1E3BAE502_2123808084
+ |   |-         Package: /Game/__ExternalActors__/Levels/MenuLevel/B/SY/VZWDOEUJEZ00HW8ZWFOIPH
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: DF03F8234D2F950108D746886E7E7540
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.TargetPoint_UAID_9C6B0058C1E3BAE502_2138037101
+ |   |-         Package: /Game/__ExternalActors__/Levels/MenuLevel/2/6J/74N4PIXV8CLYM289S0DCAB
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: EE10F8254C582667D8523D8E516D4F52
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell MenuLevel_MainGrid_-1_0_0_0 (AFP0VW9VHJ7P4OJ9C3K5MI6PP)
+ |- Actor Count: 15
+ |- [+] /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.TargetPoint_UAID_9C6B0058C1E3BAE502_2118259082
+ |   |-         Package: /Game/__ExternalActors__/Levels/MenuLevel/F/3N/CNXEL0LINC85L2L1CXB3JJ
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 0770D72D45611DA09D6719935240EA73
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.TargetPoint_UAID_9C6B0058C1E3BAE502_2118258081
+ |   |-         Package: /Game/__ExternalActors__/Levels/MenuLevel/1/R0/5C78QIL2CSKNCMBJYK3WNY
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 2BFDA359418DDAC0F46ABBADA75F128F
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.BP_MainMenuPawn_C_UAID_9C6B0058C1E318E502_1487141544
+ |   |-         Package: /Game/__ExternalActors__/Levels/MenuLevel/C/GB/EVMARS63Q1OEBK30W2SUR8
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 3018B72C4CCCF30BC25E4EB87BD7C7B8
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.TargetPoint_UAID_9C6B0058C1E3BAE502_2123812087
+ |   |-         Package: /Game/__ExternalActors__/Levels/MenuLevel/B/RW/QAZ00F50BXUUQHU6M0OCD4
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 3BB58B7D4DAC1D24B2E433A5D5EA5C07
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.TargetPoint_UAID_9C6B0058C1E3BAE502_1330252055
+ |   |-         Package: /Game/__ExternalActors__/Levels/MenuLevel/2/M8/AI2Z08XK8OB9ZEFS7XYUGM
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 43D85D204B6E7A3FAE8E0B87F50CFE52
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.TargetPoint_UAID_9C6B0058C1E3BAE502_2123811086
+ |   |-         Package: /Game/__ExternalActors__/Levels/MenuLevel/1/8U/AKLP951YPN0OORYN6N82UR
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 5425E9A94D698034EBD224A9F77CED2E
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.TargetPoint_UAID_9C6B0058C1E3BAE502_2118254078
+ |   |-         Package: /Game/__ExternalActors__/Levels/MenuLevel/1/NN/C8Y91X0U2EMFL6EYIXCW0B
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 6B9FD0C24D8E0403F93F178661B66304
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.TargetPoint_UAID_9C6B0058C1E3BAE502_2087704076
+ |   |-         Package: /Game/__ExternalActors__/Levels/MenuLevel/0/1Z/JW617UWNXQUQ15U1FF0SPY
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 7B1E9E514A2A376E67550198D1655EA3
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.TargetPoint_UAID_9C6B0058C1E3BAE502_2118256079
+ |   |-         Package: /Game/__ExternalActors__/Levels/MenuLevel/2/GK/YG2ULXIMLO0S9E29JOF4CP
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 9921FDEA42908382F640F78E86B9FA66
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.TargetPoint_UAID_9C6B0058C1E3BAE502_2123809085
+ |   |-         Package: /Game/__ExternalActors__/Levels/MenuLevel/0/CK/RVW7O06EVYHHA1XRLXE2VB
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: A696E13545FADBEFD1F31489DB7328C5
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.TargetPoint_UAID_9C6B0058C1E3BAE502_2111214077
+ |   |-         Package: /Game/__ExternalActors__/Levels/MenuLevel/B/RM/BXUKNPAA9J42TUOB4EL624
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: BCF7F0E6430F6929AEE32BBABC9D224D
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.TargetPoint_UAID_9C6B0058C1E3BAE502_2123806083
+ |   |-         Package: /Game/__ExternalActors__/Levels/MenuLevel/F/2F/OUIIYLA2B2XBFGENA2E623
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: C79A17F646004C9B9C9483BDABB63391
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.TargetPoint_UAID_9C6B0058C1E3BAE502_2085604075
+ |   |-         Package: /Game/__ExternalActors__/Levels/MenuLevel/1/OD/PF6K966WLCMCUYH9U1R0HZ
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: CDCE837C446CE682C37C3F81DD26F970
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.TargetPoint_UAID_9C6B0058C1E3BAE502_2081098074
+ |   |-         Package: /Game/__ExternalActors__/Levels/MenuLevel/B/01/66V5ME4U6JD8THMFT0J85D
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: EA51F0704B860526C14CA5A99FD568BD
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.TargetPoint_UAID_9C6B0058C1E3BAE502_2118257080
+ |   |-         Package: /Game/__ExternalActors__/Levels/MenuLevel/C/XY/HDQYQ4AP0SWELNDMKUXUOA
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: FEB91E084274EDD998CBAFB05C8B3517
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell MenuLevel_MainGrid_-1_0_-1_0 (DM9UMLSTJR0Q2OCD6VENB753S)
+ |- Actor Count: 1
+ |- [+] /Game/Levels/MenuLevel.MenuLevel:PersistentLevel.BP_Playfeild_C_UAID_9C6B0058C1E3BAE502_1419007059
+ |   |-         Package: /Game/__ExternalActors__/Levels/MenuLevel/2/7I/5H0L1469BYJW729CK2QN1U
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 200AEEAD4D90B837527137BE6D3D6ECF
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+
