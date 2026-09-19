@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SUPER_DUPER_TETRIS.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Dylan\Documents\Unreal Projects\MigratedTetris\SUPER DUPER TETRIS\Intermediate\Build\Win64\x64\SUPER_DUPER_TETRISEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\Dylan\Documents\Unreal Projects\MigratedTetris\SUPER DUPER TETRIS\Intermediate\Build\Win64\x64\UnrealEditor\Development\SUPER_DUPER_TETRIS\MySaveGame.gen.cpp.obj"
+"C:\Users\Dylan\Documents\Unreal Projects\MigratedTetris\SUPER DUPER TETRIS\Intermediate\Build\Win64\x64\UnrealEditor\Development\SUPER_DUPER_TETRIS\SUPER_DUPER_TETRIS.init.gen.cpp.obj"
+"C:\Users\Dylan\Documents\Unreal Projects\MigratedTetris\SUPER DUPER TETRIS\Intermediate\Build\Win64\x64\UnrealEditor\Development\SUPER_DUPER_TETRIS\MySaveGame.cpp.obj"
+"C:\Users\Dylan\Documents\Unreal Projects\MigratedTetris\SUPER DUPER TETRIS\Intermediate\Build\Win64\x64\UnrealEditor\Development\SUPER_DUPER_TETRIS\SUPER_DUPER_TETRIS.cpp.obj"
+"C:\Users\Dylan\Documents\Unreal Projects\MigratedTetris\SUPER DUPER TETRIS\Intermediate\Build\Win64\x64\UnrealEditor\Development\SUPER_DUPER_TETRIS\Default.rc2.res"
+/OUT:"C:\Users\Dylan\Documents\Unreal Projects\MigratedTetris\SUPER DUPER TETRIS\Intermediate\Build\Win64\x64\UnrealEditor\Development\SUPER_DUPER_TETRIS\UnrealEditor-SUPER_DUPER_TETRIS.lib"
