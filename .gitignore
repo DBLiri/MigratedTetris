@@ -1198,3 +1198,14 @@ SUPER DUPER TETRIS/Releases/1.0/Windows/AssetRegistry.bin
 SUPER DUPER TETRIS/Releases/1.0/Windows/Metadata/DevelopmentAssetRegistry.bin
 SUPER DUPER TETRIS/Releases/1.0/Windows/MigratedTetris-Windows.ucas
 /SUPER DUPER TETRIS/Intermediate/Build
+SUPER DUPER TETRIS/Binaries/Win64/SUPER_DUPER_TETRIS-Win64-Shipping.exp
+SUPER DUPER TETRIS/Binaries/Win64/SUPER_DUPER_TETRIS-Win64-Shipping.pdb
+SUPER DUPER TETRIS/Binaries/Win64/SUPER_DUPER_TETRIS-Win64-Shipping.target
+SUPER DUPER TETRIS/Binaries/Win64/tbb.pdb
+SUPER DUPER TETRIS/Binaries/Win64/tbbmalloc.pdb
+SUPER DUPER TETRIS/Build/Windows/FileOpenOrder/CookerOpenOrder.log
+SUPER DUPER TETRIS/Build/Windows/FileOpenOrder/EditorOpenOrder.log
+SUPER DUPER TETRIS/Build/Windows/FileOpenOrder/EditorOpenOrder.log
+SUPER DUPER TETRIS/Build/Windows/FileOpenOrder/CookerOpenOrder.log
+*.log
+*.log
